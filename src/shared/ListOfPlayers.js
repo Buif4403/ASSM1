@@ -1,6 +1,6 @@
 export const Players =[
     {id: 1,
-    name: 'Amazonnnnnnnnnnnnnnnnnnnnn Rainforest',
+    name: 'Amazon Rainforest',
     img: 'assets/imagesasm/Amazon.jpg',
     info: 'The Amazon rainforest or Amazon rainforest, or Amazon Forest for short, is a moist broadleaf forest in the Amazon basin of South America. This region, known as Amazonia or the Amazon Basin covers an area of ​​7 million km², of which rain forests account for 5.5 million km².'
     },
